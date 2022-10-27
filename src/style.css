@@ -1,5 +1,7 @@
 body {
   font-size: medium;
+  margin: 0;
+  padding: 0;
 }
 
 .container:not(:last-child) {
