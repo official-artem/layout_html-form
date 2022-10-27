@@ -1,5 +1,5 @@
-* {
-  font-size: initial;
+body {
+  font-size: medium;
 }
 
 .container:not(:last-child) {
